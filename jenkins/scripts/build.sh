@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
-set -x
+set +x
 npm cache clean
 npm install
